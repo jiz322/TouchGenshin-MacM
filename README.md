@@ -38,11 +38,13 @@ pip install -r requirements.txt
 
 ### Usage
 
+To use this script, the right of Accessibility and Input Monitoring should be given to the Terminal. If aim assistant is on, the Screen Recording right should be given. (MacOs System Setting)
+
+To run, simply type in Terminal: 
+
 ```bash
 python main.py
 ```
-
-In System Settings, allow the Terminal on Accessibility and Input Monitoring. If aim assistant is on, also allow Screen Recording.
 
 ## Configuration
 
