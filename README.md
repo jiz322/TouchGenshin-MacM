@@ -4,13 +4,13 @@
 
 TouchGenshin-MacM is an assistive tool designed to enhance the gaming experience for Genshin Impact players on macOS. With the M1 chip, macOS users can only download the iOS version of the game, primarily designed for touch-screen interaction. This tool bridges the gap by enabling control using a keyboard and touchpad.
 
-The project also includes an auto-aiming feature powered by a YOLO (You Only Look Once) model, which assists players by automatically moving the cursor to detected in-game entities. This feature is designed to add a new dimension to the gameplay while also respecting the game's balance, ensuring a fair and enjoyable experience for all players.
+The project also includes an auto-aiming feature, which assists players by automatically moving the cursor to detected in-game entities. This feature is designed to add a new dimension to the gameplay while also respecting the game's balance, ensuring a fair and enjoyable experience for all players.
 
 ## Features
 
 - **Keyboard and Touchpad Control:** Play the iOS version of Genshin Impact on macOS with keyboard and touchpad as if you were playing on a traditional gaming platform.
 
-- **Aim-Assistant:** Leverages a YOLO model to automatically aim at detected in-game entities, enhancing the user experience.
+- **Aim-Assistant (Currently Unstable):** Leverages a ML detection model to automatically aim at detected in-game entities, enhancing the user experience. Set True in `functionalities.ini` to enable this feature.
 
 ![Aim-Assistant](https://github.com/jiz322/TouchGenshin-MacM/blob/main/accessories/yuanmo_detect.png)
 
