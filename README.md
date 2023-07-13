@@ -12,7 +12,7 @@ The project also includes an auto-aiming feature powered by a YOLO (You Only Loo
 
 - **Aim-Assistant:** Leverages a YOLO model to automatically aim at detected in-game entities, enhancing the user experience.
 
-![Aim-Assistant](https://github.com/jiz322/TouchGenshin-MacM/blob/master/accessories/yuanmo_detect.png)
+![Aim-Assistant](https://github.com/jiz322/TouchGenshin-MacM/blob/main/accessories/yuanmo_detect.png)
 
 ## Getting Started
 
