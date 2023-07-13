@@ -42,6 +42,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+In System Settings, allow the Terminal on Accessibility and Input Monitoring. If aim assistant is on, also allow Screen Recording.
+
 ## Configuration
 
 You can adjust the behavior and functionality of this software by modifying the provided configuration files: `position_adjustment.ini`, `functionalities.ini`, and `keyboard_config.ini`. 
