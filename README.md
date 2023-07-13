@@ -27,7 +27,7 @@ Follow the instructions below to set up the project on your local machine.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<YourUserName>/TouchGenshin-MacM.git
+git clone https://github.com/jiz322/TouchGenshin-MacM.git
 ```
 
 2. Install the required packages:
